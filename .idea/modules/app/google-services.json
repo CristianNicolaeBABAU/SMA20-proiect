@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "967818265845",
+    "project_id": "booking-f4c17",
+    "storage_bucket": "booking-f4c17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967818265845:android:9ee34da22e70820eb1f1bc",
+        "android_client_info": {
+          "package_name": "com.upt.cti.vlad.udrescu.booking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967818265845-8nnopij3gf7nh0u9p1rjqd6np4rdfh7l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.upt.cti.vlad.udrescu.booking",
+            "certificate_hash": "c0193494bb972d1783ad93af143aa6d62948a818"
+          }
+        },
+        {
+          "client_id": "967818265845-159pr4nvkhvu4fh3n4mlo63ibuv5v565.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9nksT0ggU7WqeFSDQGPKX9_lkncu9aO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967818265845-159pr4nvkhvu4fh3n4mlo63ibuv5v565.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
