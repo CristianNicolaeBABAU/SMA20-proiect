@@ -36,7 +36,7 @@
             </intent-filter>
         </activity>
 
-
+        <activity android:name=".services.LoginAsGuestActivity"></activity>
 
         <meta-data
             android:name="preloaded_fonts"
